@@ -1,0 +1,1 @@
+Para ver el resultado solo call localhost/simplebox_js/demo/index
